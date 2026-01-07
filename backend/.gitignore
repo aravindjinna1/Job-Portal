@@ -1,1 +1,13 @@
-node_modules
+# Backend (Node / Express)
+# =========================
+backend/node_modules/
+backend/.env*
+backend/logs/
+backend/tmp/
+
+# =========================
+# Editor / IDE
+# =========================
+.vscode/
+.idea/
+*.swp

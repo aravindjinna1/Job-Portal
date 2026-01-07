@@ -7,6 +7,13 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Frontend (Vite / React)
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.env*
+frontend/.vite/
+
 node_modules
 dist
 dist-ssr
